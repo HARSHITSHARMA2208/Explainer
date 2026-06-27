@@ -10,7 +10,7 @@ from transformers import pipeline
 
 
 # Streamlit UI
-st.set_page_config(page_title="📘 Explainer", page_icon="📘", layout="centered")
+st.set_page_config(page_title="📘 Explainer", layout="centered")
 st.title("📘 Doc Explainer")
 
 uploaded_file = st.file_uploader("Upload a PDF or TXT file", type=["pdf", "txt"])
