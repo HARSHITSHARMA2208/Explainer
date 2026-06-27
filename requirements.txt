@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+chromadb
+huggingface_hub
+sentence-transformers
+pypdf
+transformers
+torch
+accelerate
